@@ -1,0 +1,1 @@
+g++ -O3 -DALL KpLeX-RGB.cpp -o KpLeX-RGB -std=c++11 -mpopcnt
