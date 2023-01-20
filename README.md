@@ -7,7 +7,7 @@ Jiongzhi Zheng, Mingming Jin, Yan Jin, Kun He <br> <br>
 
 We also provide the source codes of Maplex and KpLeX, which are downloaded from: <br>
 https://github.com/ini111/Maplex <br>
-https://github.com/Lweb/KPLEX <br> <br>
+https://github.com/huajiang-ynu/kplex <br> <br>
 
 To run KpLeX-RGB, you need to execute the following commands on a Unix/Linux machine: <br> <br>
 
