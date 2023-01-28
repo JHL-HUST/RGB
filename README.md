@@ -2,7 +2,7 @@
 Relaxed Graph Color Bound for the Maximum $k$-plex Problem
 ----
 This repository contains the code to the Maplex-RGB and KpLeX-RGB algorithms for the Maximum $k$-plex Problem (MkP) proposed in our paper: <br> <br>
-[Relaxed Graph Color Bound for the Maximum k-plex Problem](https://arxiv.org/pdf/2301.07300) <br>
+[Relaxed Graph Color Bound for the Maximum k-plex Problem](https://arxiv.org/abs/2301.07300) <br>
 Jiongzhi Zheng, Mingming Jin, Yan Jin, Kun He <br> <br>
 
 The source codes of Maplex and KpLeX can be downloaded from: <br>
