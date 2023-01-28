@@ -5,7 +5,7 @@ This repository contains the code to the Maplex-RGB and KpLeX-RGB algorithms for
 [Relaxed Graph Color Bound for the Maximum k-plex Problem](https://arxiv.org/pdf/2301.07300) <br>
 Jiongzhi Zheng, Mingming Jin, Yan Jin, Kun He <br> <br>
 
-We also provide the source codes of Maplex and KpLeX, which are downloaded from: <br>
+The source codes of Maplex and KpLeX can be downloaded from: <br>
 https://github.com/ini111/Maplex <br>
 https://github.com/huajiang-ynu/kplex <br> <br>
 
